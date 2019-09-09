@@ -1,4 +1,4 @@
 # frog-maven-plugin
-Validate JavaBean - Angular bindings
+Maven plugin for JavaBean - Angular bindings validation.
 
 **Work in progress...**
